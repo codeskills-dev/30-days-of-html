@@ -1,0 +1,10 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  /* change the background color to #5fa554 */
+  background: #fff;
+  /* change the text color to #ffffff */
+  color: black;
+}
