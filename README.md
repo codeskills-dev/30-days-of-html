@@ -14,7 +14,14 @@ Each challenge is contained in its own HTML file, and includes a corresponding s
 
 ## List of Challenges
 
-1. Create a basic HTML page with a heading and a paragraph.
+<ol>
+  <li>
+    <a href="https://github.com/codeskills-dev/30-days-of-html/tree/main/01%20-%20Basic%20HTML%20Page">
+      Create a basic HTML page with a heading and a paragraph
+    </a>
+  </li>
+</ol>
+
 2. Add an image to your HTML page.
 3. Create a hyperlink to another website.
 4. Add a list of items to your HTML page.
