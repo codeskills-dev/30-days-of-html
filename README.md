@@ -21,11 +21,17 @@ Each challenge is contained in its own HTML file, and includes a corresponding s
     </a>
   </li>
    <li>
-    <a href="https://github.com/codeskills-dev/30-days-of-html/tree/main/01%20-%20Basic%20HTML%20Page">
+    <a href="https://github.com/codeskills-dev/30-days-of-html/tree/main/02%20-%20Add%20an%20Image%20to%20your%20HTML%20Page">
       Add an image to your HTML page
     </a>
   </li>
 </ol>
+
+<!-- <li>
+    <a href="">
+
+    </a>
+  </li> -->
 
 3. Create a hyperlink to another website.
 4. Add a list of items to your HTML page.
