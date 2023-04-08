@@ -25,6 +25,11 @@ Each challenge is contained in its own HTML file, and includes a corresponding s
       Add an image to your HTML page
     </a>
   </li>
+  <li>
+    <a href="">
+      Create a hyperlink to another website
+    </a>
+  </li>
 </ol>
 
 <!-- <li>
@@ -33,7 +38,6 @@ Each challenge is contained in its own HTML file, and includes a corresponding s
     </a>
   </li> -->
 
-3. Create a hyperlink to another website.
 4. Add a list of items to your HTML page.
 5. Add a table to your HTML page.
 6. Create a form with input fields and a submit button.
