@@ -26,7 +26,7 @@ Each challenge is contained in its own HTML file, and includes a corresponding s
     </a>
   </li>
   <li>
-    <a href="">
+    <a href="https://github.com/codeskills-dev/30-days-of-html/tree/main/03%20-%20Create%20a%20hyperlink%20to%20another%20website">
       Create a hyperlink to another website
     </a>
   </li>
