@@ -98,16 +98,6 @@ Each challenge is contained in its own HTML file, and includes a corresponding s
   </li>
   <li>
   <a href="">
-  Use the br tag to create a line break
-  </a>
-  </li>
-  <li>
-  <a href="">
-  Use the hr tag to create a horizontal rule
-  </a>
-  </li>
-  <li>
-  <a href="">
   Create a basic HTML form with radio buttons
   </a>
   </li>
