@@ -1,6 +1,11 @@
-# 30 Days of HTML
+# 30 Days of HTML🎖️💻
 
-Welcome to "30 Days of HTML," a repository with HTML challenges for beginners!
+Welcome to "30 Days of HTML" a repository with HTML challenges for beginners!
+
+ ![GitHub forks](https://img.shields.io/github/forks/codeskills-dev/30-days-of-html?style=for-the-badge)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/codeskills-dev/30-days-of-html?style=for-the-badge)
+ [![Watchers](https://img.shields.io/github/watchers/codeskills-dev/30-days-of-html?style=for-the-badge)](https://github.com/LearnEarn-Fun/HTML-Challenges-For-Beginners/watchers)
+ <br><br>
 
 ## Overview
 
