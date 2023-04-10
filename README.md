@@ -11,6 +11,7 @@ This repository contains 30 HTML challenges that are designed to help beginners 
 ## How to Use
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/codeskills-dev/30-days-of-html/archive/v1.0.0.zip)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 To get started, simply download/clone this repository to your local machine and start working on the challenges. You can work through the challenges in order, or jump around to the ones that interest you the most.
