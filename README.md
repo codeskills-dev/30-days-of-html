@@ -1,8 +1,8 @@
 # 30 Days of HTML🎖️💻
 
 Welcome to "30 Days of HTML" a repository with HTML challenges for beginners!
- <br><br>
- ![30-days-of-html](https://socialify.git.ci/codeskills-dev/30-days-of-html/image?font=Inter&forks=1&language=1&name=1&pulls=1&stargazers=1&theme=Auto)
+<br><br>
+![30-days-of-html](https://socialify.git.ci/codeskills-dev/30-days-of-html/image?font=Inter&forks=1&language=1&name=1&pulls=1&stargazers=1&theme=Auto)
 
 ## Overview
 
@@ -10,7 +10,10 @@ This repository contains 30 HTML challenges that are designed to help beginners 
 
 ## How to Use
 
-To get started, simply clone this repository to your local machine and start working on the challenges. You can work through the challenges in order, or jump around to the ones that interest you the most.
+<!-- BEGIN LATEST DOWNLOAD BUTTON -->
+<!-- END LATEST DOWNLOAD BUTTON -->
+
+To get started, simply download/clone this repository to your local machine and start working on the challenges. You can work through the challenges in order, or jump around to the ones that interest you the most.
 
 Each challenge is contained in its own HTML file, and includes a corresponding solution file. Once you've completed a challenge, you can check your work by comparing your code to the solution file.
 
