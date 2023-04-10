@@ -14,6 +14,8 @@ To get started, simply clone this repository to your local machine and start wor
 
 Each challenge is contained in its own HTML file, and includes a corresponding solution file. Once you've completed a challenge, you can check your work by comparing your code to the solution file.
 
+Don't forget to give this repo a star ⭐️
+
 ## List of Challenges
 
 <ol>
