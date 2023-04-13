@@ -179,7 +179,7 @@ Don't forget to give this repo a star ⭐️
 
 ## Contributing
 
-If you would like to contribute to this repository, please feel free to submit a pull request. We welcome any and all contributions that can help make this repository better!
+If you would like to contribute to this repository, checkout the [contributing guidelines](https://github.com/codeskills-dev/30-days-of-html/blob/main/Contributing.md) and please feel free to submit a pull request. We welcome any and all contributions that can help make this repository better!
 
 ## Author
 
