@@ -3,7 +3,7 @@
 Welcome to "30 Days of HTML" a repository with HTML challenges for beginners!
 <br><br>
 
-![30-days-of-html](https://socialify.git.ci/codeskills-dev/30-days-of-html/image?font=Inter&forks=1&language=1&name=1&pulls=1&stargazers=1&theme=Auto)
+![30-days-of-html](https://socialify.git.ci/codeskills-dev/30-days-of-html/image?font=Inter&forks=1&language=1&name=1&stargazers=1&theme=Auto)
 
 ## Overview
 
